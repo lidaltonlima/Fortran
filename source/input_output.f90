@@ -16,8 +16,6 @@ program sum_of_numbers
   
     ! Exibe o resultado
     write(*, *) "A soma de", num1, "e", num2, "resulta em", sum
-
-    call system("pause")
   
   end program sum_of_numbers
   
